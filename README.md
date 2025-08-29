@@ -1,9 +1,6 @@
-项目名称：
-Cyberbuffer
-项目简介：
-一款集修行、成长、社交于一体的互动游戏
-Github URL：
-https://github.com/sharkerrrr/cyberbuffer
+项目名称：Cyberbuffer
+
+项目简介：一款集修行、成长、社交于一体的互动游戏
 
 
 截图（至少 2 张）：
